@@ -17,7 +17,7 @@ a {font-family:verdana;font-size:}100%;}
 <body>
   <h1>Image Demo</h1>
   <p>
-    <img src = "https://github.com/wrafab/northc/blob/master/cup.jpg?raw=true"
+    <img src = "cup.jpg"
          alt = "Team Building Session" />
   </p>
   <h2>Penny Holding Device</h2>
