@@ -1,0 +1,89 @@
+<body>
+  <html>
+<style>
+h1 {font-family:timesnewroman; font-size:200%;text-align:center;}
+h2 {font-family:verdana; font-size:150%;text-align:center;}
+h3 {font-family:verdana; font-size:125%;}
+p {font-family:verdana;font-size:100%;}
+li {font-family:verdana;font-size:100%}
+a {font-family:verdana;font-size:}100%;}
+</style>
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+  <title>imageDemo.html</title>
+  <meta charset = "UTF-8" />
+
+<p><h1><font face="timesnewroman" size="20" color="grey">Rotation 3:</font></h1></p>
+    </body>
+  </html>
+<body>
+  <html>
+    
+   <!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color:#ccffcc;
+}
+h1 {
+    background-color:green ;
+}
+p {
+    background-color: rgb(204, 255, 204);
+}
+</style>
+</head>
+<p>
+<a href="index.html">About me</a>
+</p>
+
+<p>
+<a href="me.html">About me</a>
+</p>
+
+
+<p>
+<a href="week1.html">Rotation 1</a>
+</p>
+
+<p>
+<a href="week2.html">Rotation 2</a>
+</p>
+
+<p>
+<a href="week3.html">Rotation 3</a>
+</p>
+
+<p>
+<a href="week4.html">Rotation 4</a>
+</p>
+
+<p>
+<a href="week5.html">Rotation 5</a>
+</p>
+
+<p>
+<a href="week6.html">Rotation 6</a>
+</p>
+
+<p>
+<a href="week7.html">Rotation 7</a>
+</p>
+
+<p>
+<a href="week8.html">Rotation 8</a>
+</p>
+
+<p>
+<a href="week9.html">Rotation 9</a>
+</p>
+
+<p>
+<a href="week10.html">Final Project</a>
+</p>
+
+
+</body>
+</html>
