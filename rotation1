@@ -17,10 +17,10 @@ a {font-family:verdana;font-size:}100%;}
 <body>
   <h1>Image Demo</h1>
   <p>
-    <img src = "cup.jpg"
+    <img src = "https://github.com/wrafab/northc/blob/master/cup.jpg?raw=true"
          alt = "Team Building Session" />
   </p>
-  <h2>This page has a picture of a monkey</h2>
+  <h2>Penny Holding Device</h2>
   <p>
     We started this project...
   </p>
