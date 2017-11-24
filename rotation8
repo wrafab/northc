@@ -1,0 +1,78 @@
+<p><h1><font face="timesnewroman" size="20" color="grey">Rotation 8:</font></h1></p><body>
+  <html>
+<style>
+h1 {font-family:timesnewroman; font-size:200%;text-align:center;}
+h2 {font-family:verdana; font-size:150%;text-align:center;}
+h3 {font-family:verdana; font-size:125%;}
+p {font-family:verdana;font-size:100%;}
+li {font-family:verdana;font-size:100%}
+a {font-family:verdana;font-size:}100%;}
+</style>
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+  <title>imageDemo.html</title>
+  <meta charset = "UTF-8" />
+
+<p><h3><font face="timesnewroman" size="20" color="grey">Main Focus: Soldering the parts to a LED spinning wheel.</font></h1></p>
+    </body>
+  </html>
+<body>
+  <html>
+    <p><font face="timesnewroman" size="20" color="grey">In soldering, using pens in our case, you basically had to touch the 750 degree farenheight pen to some wire, which would melt it and allow it to "glue" the wires to the circuit board for the wheel. I did mine, but had some trouble, and as a result my wheel rather than the LEDs spinning and landing on one light it chose just one red light, likely because I fried some circuits as I did some work to make sure no wires were sautered together. My main take away from sautering was that one whp has shaky hands should not sauter, as a result of the fact that it takes a great degree of precision, and buring yourselves with 750 degrees isn't very fun. Here it is:</font></li></p>
+	<img src="tshirtfront.jpg"height="550" width="300"> 
+	<img src="tshirtback.jpg"height="550" width="300">
+ 
+
+
+<a href="index.html">About me</a>
+</p>
+
+<p>
+<a href="me.html">About me</a>
+</p>
+
+
+<p>
+<a href="rotation1.html">Rotation 1</a>
+</p>
+
+<p>
+<a href="rotation2.html">Rotation 2</a>
+</p>
+
+<p>
+<a href="Rotation3.html">Rotation 3</a>
+</p>
+
+<p>
+<a href="Rotation4.html">Rotation 4</a>
+</p>
+
+<p>
+<a href="week5.html">Rotation 5</a>
+</p>
+
+<p>
+<a href="week6.html">Rotation 6</a>
+</p>
+
+<p>
+<a href="week7.html">Rotation 7</a>
+</p>
+
+<p>
+<a href="week8.html">Rotation 8</a>
+</p>
+
+<p>
+<a href="week9.html">Rotation 9</a>
+</p>
+
+<p>
+<a href="week10.html">Final Project</a>
+</p>
+
+
+</body>
+</html>
